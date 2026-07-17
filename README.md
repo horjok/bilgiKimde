@@ -91,7 +91,7 @@ python yatkinlik_motoru.py
 Doğal dilde sorgulama ("_Kubernetes'i kim öğrenmeli?_", "_En kırılgan ekip hangisi?_") bir
 RAG katmanıyla yapılır. Not defteri Kaggle üzerinde barındırılmaktadır:
 
-> 🔗 **RAG sistemi (Kaggle):** _<!-- KAGGLE_LINKI_BURAYA -->_ (yakında)
+> 🔗 **RAG sistemi (Kaggle):** https://www.kaggle.com/code/horjok/bilgi-kimde
 
 ## 🗂️ Veri şeması
 
@@ -122,7 +122,7 @@ Seviyeler: `baslangic · orta · ileri · uzman`. Yetkinlik havuzu 5 kategoride 
 - [x] Yatkınlık motoru (embedding + kosinüs)
 - [x] Bus factor / risk analizi
 - [x] Streamlit arayüzü + demo
-- [ ] RAG sorgu katmanı (Kaggle)
+- [x] RAG sorgu katmanı (Kaggle)
 
 ---
 

@@ -109,13 +109,15 @@ def foto_html(isim):
 
 @st.cache_resource
 def embeddingleri_getir():
-    """Embedding'i TEMİZ bir alt süreçte hesaplar (torch izole) -> numpy sözlük."""
-    import subprocess
-    import tempfile
-
+    """Onceden hesaplanmis data/embeddings.npz varsa onu yukler (dagitim: torch'suz,
+    hafif). Yoksa (yerel gelistirme) alt surecte gercek modelle hesaplar."""
     kapsam = os.path.dirname(os.path.abspath(__file__))
-    npz = os.path.join(tempfile.gettempdir(), "yetkinlik_embed.npz")
-    subprocess.run([sys.executable, "embed_worker.py", npz], check=True, cwd=kapsam)
+    npz = os.path.join(kapsam, "data", "embeddings.npz")
+    if not os.path.exists(npz):
+        import subprocess
+        import tempfile
+        npz = os.path.join(tempfile.gettempdir(), "yetkinlik_embed.npz")
+        subprocess.run([sys.executable, "embed_worker.py", npz], check=True, cwd=kapsam)
     veri = np.load(npz)
     return {str(ad): vek for ad, vek in zip(veri["adlar"], veri["vektorler"])}
 

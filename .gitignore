@@ -13,8 +13,9 @@ env/
 # Streamlit yerel sirlari (config.toml takip edilir, secrets edilmez)
 .streamlit/secrets.toml
 
-# Model / embedding onbellegi ve gecici ciktilar
+# Gecici embedding ciktilari; dagitim icin data/embeddings.npz commit'lenir
 *.npz
+!data/embeddings.npz
 
 # Isletim sistemi / editor
 .DS_Store
