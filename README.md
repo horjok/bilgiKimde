@@ -91,8 +91,7 @@ python yatkinlik_motoru.py
 Doğal dilde sorgulama ("_Kubernetes'i kim öğrenmeli?_", "_En kırılgan ekip hangisi?_") bir
 RAG katmanıyla yapılır. Not defteri Kaggle üzerinde barındırılmaktadır:
 
-> 🔗 **RAG sistemi (Kaggle):** _<!-- [KAGGLE_LINKI_BURAYA](https://www.kaggle.com/code/horjok/bilgi-kimde) -->_ 
-
+> 🔗 **RAG sistemi (Kaggle):** https://www.kaggle.com/code/horjok/bilgi-kimde
 ## 🗂️ Veri şeması
 
 ```json
