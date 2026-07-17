@@ -1,0 +1,924 @@
+[
+  {
+    "kisi": "Ahmet Doğan",
+    "cv_metni": "Ahmet Doğan, 8 yıl boyunca yazılım sektöründe çalışmaktadır. Özellikle .NET Framework ve ASP.NET Core ile geliştirilmiş projeleri yönetmiştir.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "ileri",
+        "kanit": "Ahmet .NET Framework ve ASP.NET Core platformlarını kullanarak büyük ölçekli uygulamalar geliştirdi ve yönetti."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "orta",
+        "kanit": "Ahmet servisleri ve mikroservis mimarisi kurallarını uygulayarak birçok farklı servisi geliştirdi."
+      },
+      {
+        "ad": "CI/CD",
+        "seviye": "baslangic",
+        "kanit": "Ahmet CI/CD pipelinesini kullanmayı öğrendi ve basit projelerde uyguladı."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "orta",
+        "kanit": "Ahmet Docker ile konteynerize uygun kod yazmayı ve Dockerfile oluşturmayı öğrendi."
+      }
+    ]
+  },
+  {
+    "kisi": "Mehmet Ersoy",
+    "cv_metni": "Mehmet Ersoy, 7 yıl boyunca yazılım sektöründe çalışmış ve özellikle Angular ve React teknolojileri ile geliştirilmiş projeleri yönetmiştir.",
+    "yetkinlikler": [
+      {
+        "ad": "Angular",
+        "seviye": "ileri",
+        "kanit": "Mehmet Angular ile birçok SPA uygulaması geliştirdi ve yönetti."
+      },
+      {
+        "ad": "React",
+        "seviye": "ileri",
+        "kanit": "Mehmet React ile birçok web uygulaması geliştirdi ve yönetti."
+      },
+      {
+        "ad": "Next.js",
+        "seviye": "orta",
+        "kanit": "Mehmet Next.js ile server-side rendering teknolojisi hakkında bilgi edinmiş ve bazı projelerde kullanmış oldu."
+      },
+      {
+        "ad": "Kubernetes",
+        "seviye": "baslangic",
+        "kanit": "Mehmet Kubernetes'i tanımayı öğrendi ve basit bir uygulama üzerinde test etti."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Bilgin",
+    "cv_metni": "Ahmet Bilgin, uzman seviyede yazılımcı olarak 8 yıl tecrübesine sahiptir. Özellikle mikroservis mimarisi ve Docker kullanılarak ölçeklenebilir sistemler geliştirmek için uzmanlık gösterir.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "uzman",
+        "kanit": "Ahmet, .NET Framework ve .NET Core üzerinde büyük ölçekli uygulamalar geliştirdi."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "Ahmet, çeşitli mikroservisler arasında veri akışını yönetmek için Docker Swarm ve Kubernetes kullanır."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "uzman",
+        "kanit": "Ahmet, Docker Compose ve Dockerfile kullanarak kapsayıcı tabanlı uygulamalar oluşturur ve yönetir."
+      },
+      {
+        "ad": "Kubernetes",
+        "seviye": "uzman",
+        "kanit": "Ahmet, Kubernetes kullanarak hizmetlerin ölçeğini ve dağıtımını yönetir."
+      }
+    ]
+  },
+  {
+    "kisi": "Mehmet Çelik",
+    "cv_metni": "Mehmet Çelik, 7 yıl tecrübeli yazılımcıdır. Özellikle veri modellenme ve veri analizi konularında uzmanlık gösterir.",
+    "yetkinlikler": [
+      {
+        "ad": "SQL",
+        "seviye": "uzman",
+        "kanit": "Mehmet, PostgreSQL ve MySQL gibi SQL tabanlı veritabanları yönetir."
+      },
+      {
+        "ad": "MongoDB",
+        "seviye": "orta",
+        "kanit": "Mehmet, MongoDB kullanarak veri modellenme ve analizini yapar."
+      },
+      {
+        "ad": "Pandas",
+        "seviye": "orta",
+        "kanit": "Mehmet, Pandas kütüphanesi kullanarak veri çerçeveleri oluşturur ve manipüle eder."
+      },
+      {
+        "ad": "Veri Modelleme",
+        "seviye": "uzman",
+        "kanit": "Mehmet, veri modelleme konusunda geniş bilgi sahibidir ve bu bilgiyi kullanarak karmaşık veri yapılarını tasarlar."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Demir",
+    "cv_metni": "Ahmet Demir, 7 yıl uzman olarak çalıştığı yazılım sektöründe çeşitli projelerde görev almıştır. Özellikle mikroservis mimarisi ve Docker kullanılarak ölçeklenebilir çözümler geliştirmiş ve bu süreçte çeşitli API'lerin gRPC aracılığıyla geliştirilmesine katkı sağlamıştır.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "ileri",
+        "kanit": "Mikroservis mimarisi ve Docker kullanılarak ölçeklenebilir çözümler geliştirdiği için .NET platformunu kullanarak çok sayıda projede uzmanlaşmış."
+      },
+      {
+        "ad": "gRPC",
+        "seviye": "ileri",
+        "kanit": "Geliştirilen API'lerin gRPC aracılığıyla geliştirilmesine katkı sağlaması kanıtlanmaktadır."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "ileri",
+        "kanit": "Çözümlerini Docker kullanarak kapsayıcı ortamında barındırma konusunda uzmanlaşmış."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "Mikroservis mimarisi ve Docker kullanılarak ölçeklenebilir çözümler geliştirdiği için uzmanlaşmış."
+      }
+    ]
+  },
+  {
+    "kisi": "Murat Kara",
+    "cv_metni": "Murat Kara, 8 yıl uzman olarak çalıştığı yazılım sektöründe özellikle Kubernetes ve CI/CD süreçlerini yönetmekle meşguldü. Ayrıca, farklı cloud platformları kullanarak dağıtım ve ölçeklendirme konularında uzmanlaşmıştır.",
+    "yetkinlikler": [
+      {
+        "ad": "Kubernetes",
+        "seviye": "ileri",
+        "kanit": "Kubernetes kullanarak çeşitli dağıtılmış uygulamaları yönettiği ve bu süreçte farklı cloud platformlarını kullanarak dağıtım ve ölçeklendirme konularında uzmanlaştığı kanıtlanmaktadır."
+      },
+      {
+        "ad": "CI/CD",
+        "seviye": "ileri",
+        "kanit": "CI/CD süreçlerini yöneterek çeşitli projelerde çalıştığı ve bu süreçte Kubernetes kullanılarak dağıtılmış uygulamaları yönettiği kanıtlanmaktadır."
+      },
+      {
+        "ad": "AWS",
+        "seviye": "orta",
+        "kanit": "AWS platformlarını kullanarak çeşitli dağıtılmış uygulamaları yönettiği ve bu süreçte Kubernetes kullanılarak dağıtılmış uygulamaları yönettiği kanıtlanmaktadır."
+      },
+      {
+        "ad": "Azure",
+        "seviye": "orta",
+        "kanit": "Azure platformlarını kullanarak çeşitli dağıtılmış uygulamaları yönettiği ve bu süreçte Kubernetes kullanılarak dağıtılmış uygulamaları yönettiği kanıtlanmaktadır."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Demir",
+    "cv_metni": "Ahmet, 7 yıl Python ve C#/.NET ile yazılım geliştirmede uzmanlaşmış bir yazılımcıdır. Özellikle mikroservis mimarisi ve REST API tasarlama konularında uzmandır.",
+    "yetkinlikler": [
+      {
+        "ad": "Python",
+        "seviye": "uzman",
+        "kanit": "Ahmet, birçok open-source projesinde Python kullanarak çözümler sunmuştur."
+      },
+      {
+        "ad": "C#/.NET",
+        "seviye": "uzman",
+        "kanit": "Ahmet, çeşitli makineler ve uygulamalar için .NET framework kullanarak geliştirme deneyimleri sunmuştur."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "Ahmet, büyük ölçekli uygulamalar için mikroservis mimarisi geliştirmeye ve uygulamaya yardımcı olmuştur."
+      },
+      {
+        "ad": "REST API",
+        "seviye": "ileri",
+        "kanit": "Ahmet, farklı teknolojilere dayalı REST API tasarlama ve geliştirme deneyimleri sunmuştur."
+      }
+    ]
+  },
+  {
+    "kisi": "Ayşe Kaya",
+    "cv_metni": "Ayşe, 4 yıl içinde çeşitli projelerde JavaScript ve React kullanarak web uygulamalar geliştiren yazılımcıdır. Özellikle kullanıcı deneyimi ve görsel tasarım konularında uzman seviyede yer almaktadır.",
+    "yetkinlikler": [
+      {
+        "ad": "React",
+        "seviye": "uzman",
+        "kanit": "Ayşe, React kütüphanesiyle birçok başarılı web uygulaması geliştirdi ve bu sayede kullanıcı deneyimi ve performans açısından en iyisiyi sağlamış oldu."
+      },
+      {
+        "ad": "UI/UX Temelleri",
+        "seviye": "uzman",
+        "kanit": "Ayşe, kullanıcı deneyimi ve görsel tasarım konularında geniş bilgi sahibi olduğunu kanıtladığında, birçok projede kullanıcı dostu ve estetik özelliklere sahip uygulamalar geliştirdi."
+      },
+      {
+        "ad": "HTML/CSS",
+        "seviye": "orta",
+        "kanit": "Ayşe, HTML ve CSS kullanarak basit ve kompleks web sitelerini tasarladı ve bu sayede web geliştirme konusunda deneyim kazandı."
+      },
+      {
+        "ad": "Test/TDD",
+        "seviye": "baslangic",
+        "kanit": "Ayşe, test driven development (TDD) prensibini ilk kez bir projede uyguladığı için, bu yaklaşımın avantajlarını öğrenmeye başladı."
+      }
+    ]
+  },
+  {
+    "kisi": "Mustafa Can Eroğlu",
+    "cv_metni": "Mustafa Can, 7 yıl içinde çeşitli projelerde C#/.NET ve SQL kullanarak backend geliştirme yapmış ve özellikle performans optimizasyonu konusunda uzman seviyede yer almaktadır.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "uzman",
+        "kanit": "Mustafa Can, .NET dilinde çok sayıda projeye katkı sağlamış ve bu süreçte .NET framework ve diğer araçların nasıl kullanılacağını öğrendi."
+      },
+      {
+        "ad": "SQL",
+        "seviye": "uzman",
+        "kanit": "Mustafa Can, PostgreSQL ve MongoDB gibi veritabanlarının nasıl kullanılacağını ve optimize edilmesi konusunda geniş bilgi sahibi oldu."
+      },
+      {
+        "ad": "Performans Optimizasyonu",
+        "seviye": "uzman",
+        "kanit": "Mustafa Can, birçok büyük ölçekli sisteme yönelik performans sorunlarını çözümleyerek ve bunu optimize etmek için teknikler geliştirdi."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "orta",
+        "kanit": "Mustafa Can, Docker kullanarak birçok backend uygulamasını kapsayıcılar içine packladığında, bu süreçte Docker komutlarını ve yapılandırmalarını anlamaya ve uygulamaya başladı."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Çelik",
+    "cv_metni": "Ahmet Çelik, 6 yıl boyunca çeşitli maliyet otomasyon sistemi geliştirdi. Özellikle C# ve .NET ile çalışan sistemlerin yönetimi konusunda uzman bir şekilde çalışmaktadır.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "uzman",
+        "kanit": "Çelik, çeşitli maliyet otomasyon uygulamalarını geliştirdi ve bu süreçte C# ve .NET Framework'ün advanced özelliklerini geniş bir şekilde kullanmıştır."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "orta",
+        "kanit": "Maliyet otomasyonu uygulamaları için mikroservis mimarisi benimsemiştir ve bu yapıyı başarılı bir şekilde uygulamıştır."
+      }
+    ]
+  },
+  {
+    "kisi": "Ayşe Yılmaz",
+    "cv_metni": "Ayşe Yılmaz, 5 yıl içinde birçok web tabanlı uygulama geliştirdi. Özellikle REST API ve GraphQL kullanarak kullanıcı dostu hizmetler sağlar ve bu süreçte JavaScript ve TypeScript yetkinliği göstermektedir.",
+    "yetkinlikler": [
+      {
+        "ad": "JavaScript",
+        "seviye": "orta",
+        "kanit": "Yılmaz, çeşitli JavaScript projeleri geliştirdi ve bu süreçte modern JavaScript geliştirmelerini kullanmayı öğrenmiştir."
+      },
+      {
+        "ad": "REST API",
+        "seviye": "orta",
+        "kanit": "REST API türündeki hizmetler geliştirdiği ve bunları kullanıcı dostu hizmetler haline getirdiği süreçte yetkinlik göstermiştir."
+      }
+    ]
+  },
+  {
+    "kisi": "Mehmet Korkmaz",
+    "cv_metni": "Mehmet Korkmaz, 4 yıl boyunca çoklu veri tabanlı uygulamalar geliştirdi. Özellikle PostgreSQL ve MongoDB kullanarak veri modellenmesine ve veri işlemesine odaklanmıştır.",
+    "yetkinlikler": [
+      {
+        "ad": "PostgreSQL",
+        "seviye": "orta",
+        "kanit": "Korkmaz, çoklu veri tabanlı uygulamalar geliştirdiği süreçte PostgreSQL veritabanı ile çalışmayı öğrendi ve başarılı bir şekilde kullanmıştır."
+      },
+      {
+        "ad": "MongoDB",
+        "seviye": "orta",
+        "kanit": "MongoDB veritabanı ile çalıştığı ve çeşitli veri işleme senaryolarında bu veritabanının avantajlarını gösterdiği süreçte yetkinlik göstermiştir."
+      }
+    ]
+  },
+  {
+    "kisi": "Ali Can",
+    "cv_metni": "Ali Can, uzun yıllardır .NET teknolojilerini kullanarak büyük ölçekli uygulamalar geliştirdiği için, hem mikroservis mimarisi hem de REST API'nin konusunda uzman seviyede bir yetkinliğe sahiptir. Özellikle RabbitMQ ve Kafka ile çalışan sistem tasarımları ve performans optimizasyonları konularında referans bir kişi olarak bilinmektedir.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "uzman",
+        "kanit": "Ali Can, çeşitli makinelerde .NET Framework ve .NET Core kullanarak birçok büyük ölçekli uygulama geliştirmiş."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "Ali Can, RabbitMQ ve Kafka ile çalışan sistem tasarımları ve performans optimizasyonları konusunda uzman seviyede bir yetkinliğe sahiptir."
+      },
+      {
+        "ad": "REST API",
+        "seviye": "uzman",
+        "kanit": "Ali Can, çeşitli projelerde REST API'ler tasarlamış ve uygulamıştır."
+      },
+      {
+        "ad": "Performans Optimizasyonu",
+        "seviye": "uzman",
+        "kanit": "Ali Can, çeşitli sistem tasarımlarında performans iyileştirmeleri gerçekleştirmiş."
+      }
+    ]
+  },
+  {
+    "kisi": "Fatma Yılmaz",
+    "cv_metni": "Fatma Yılmaz, özellikle JavaScript ve TypeScript kullanarak kullanıcı arayüzü tasarlamak ve geliştirmek konusunda uzman seviyede bir yetkinliğe sahiptir. Özellikle React ve Next.js kullanarak birçok başarılı web uygulaması geliştirdiği için, React ve Next.js'de uzman olarak tanınmaktadır.",
+    "yetkinlikler": [
+      {
+        "ad": "JavaScript",
+        "seviye": "uzman",
+        "kanit": "Fatma Yılmaz, çeşitli web uygulamalarında JavaScript kullanarak kullanıcı arayüzünü geliştirmiş."
+      },
+      {
+        "ad": "TypeScript",
+        "seviye": "uzman",
+        "kanit": "Fatma Yılmaz, çeşitli projelerde TypeScript kullanarak kod güvenliğini artırarak geliştirme süreçlerini optimize etmiştir."
+      },
+      {
+        "ad": "React",
+        "seviye": "uzman",
+        "kanit": "Fatma Yılmaz, çok sayıda başarılı React tabanlı uygulama geliştirmiştir."
+      },
+      {
+        "ad": "Next.js",
+        "seviye": "uzman",
+        "kanit": "Fatma Yılmaz, Next.js kullanarak hızlı ve güvenli web uygulamalar geliştirmiştir."
+      }
+    ]
+  },
+  {
+    "kisi": "Hasan Erbil",
+    "cv_metni": "Hasan Erbil, özellikle SQL ve NoSQL veritabanları kullanarak veri modellenmesi ve veri analizi konusunda uzman seviyede bir yetkinliğe sahiptir. Özellikle PostgreSQL ve MongoDB kullanarak birçok veri modellemesi ve ETL süreci gerçekleştirdiği için, veri modellenme ve analiz alanında uzman olarak tanınır.",
+    "yetkinlikler": [
+      {
+        "ad": "SQL",
+        "seviye": "uzman",
+        "kanit": "Hasan Erbil, çeşitli veri modellenme projelerinde SQL kullanarak veri tabanlarını tasarlamış ve yönetmiştir."
+      },
+      {
+        "ad": "PostgreSQL",
+        "seviye": "uzman",
+        "kanit": "Hasan Erbil, PostgreSQL kullanarak veri modellenme ve analiz süreçlerini optimize etmiştir."
+      },
+      {
+        "ad": "MongoDB",
+        "seviye": "uzman",
+        "kanit": "Hasan Erbil, çok sayıda MongoDB tabanlı veri modellemesi ve ETL süreci gerçekleştirmiştir."
+      },
+      {
+        "ad": "Veri Modelleme",
+        "seviye": "uzman",
+        "kanit": "Hasan Erbil, veri modellenme ve analiz süreçlerini optimize etmek için çeşitli veri modellerini tasarlamıştır."
+      }
+    ]
+  },
+  {
+    "kisi": "Ayşe Korkmaz",
+    "cv_metni": "Ayşe Korkmaz, 5 yıl uzmanlık süresiyle yazılım alanında çalışmalarına devam etmektedir. Özellikle mikroservis mimarisi ve Docker ile geliştirilmiş sistemlerin geliştirilmesinde uzman seviyede çalışmaktadır.",
+    "yetkinlikler": [
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "Ayşe, birçok mikroservis tabanlı sistemi geliştirdiği ve bu sistemlerin ölçeklendirilebilir olması durumunda performansını arttırdığı kanıtlanmıştır."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "uzman",
+        "kanit": "Ayşe, Docker ile geliştirilen birçok uygulamanın başarılı bir şekilde dağıtıldığı ve hizmetlerinin sağlam çalıştığı kanıtlanmıştır."
+      },
+      {
+        "ad": "AWS",
+        "seviye": "orta",
+        "kanit": "Ayşe, AWS platformunda birçok uygulamanın dağıtıldığı ve hizmetlerinin sağlandığı kanıtlanmıştır."
+      },
+      {
+        "ad": "Teknik Liderlik",
+        "seviye": "baslangic",
+        "kanit": "Ayşe, küçük ekibini liderlik ederek geliştirme süreçlerini yönetmek için görevlendirilmiştir."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Yılmaz",
+    "cv_metni": "Ahmet Yılmaz, 5 yıl uzman olarak Microsoft ürünlerini geliştirdi. Özellikle .NET ve C# konusunda uzmanlık gösteriyor.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "uzman",
+        "kanit": "5 yıllık uzmanlık süresi ve birçok .NET projesinde etkin katılımı."
+      },
+      {
+        "ad": "ASP.NET Core",
+        "seviye": "ileri",
+        "kanit": "Karmaşık uygulamalar geliştirdiği ve çeşitli ASP.NET projeleri üzerinde çalıştığı."
+      },
+      {
+        "ad": "SQL",
+        "seviye": "orta",
+        "kanit": "PostgreSQL ve SQL Server kullanarak veritabanları tasarladı ve yönetti."
+      },
+      {
+        "ad": "Kubernetes",
+        "seviye": "baslangic",
+        "kanit": "Kubernetes hakkında temel bilgi sahibiyken, bu alanla ilgilenmeye başlamış."
+      }
+    ]
+  },
+  {
+    "kisi": "Ali Çelik",
+    "cv_metni": "Ali Çelik, 4 yıl Java ve mikroservis mimarisi alanında uzmanlaşmış. Özellikle microservices ve Docker konusunda geniş bilgi sahibidir.",
+    "yetkinlikler": [
+      {
+        "ad": "Java",
+        "seviye": "uzman",
+        "kanit": "Java kullanarak birçok büyük ölçekli uygulama geliştirdiği."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "ileri",
+        "kanit": "Mikroservis mimarisi ve Docker kullanarak birçok uygulama geliştirdiği."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "uzman",
+        "kanit": "Docker kullanarak birçok konteynerli uygulama dağıttığı."
+      },
+      {
+        "ad": "AWS",
+        "seviye": "orta",
+        "kanit": "AWS platformunda birçok uygulama geliştirdiği ve yönettiği."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Bilgin",
+    "cv_metni": "Ahmet, 5 yıl uzmanlaşmış yazılımcı olarak, çeşitli mikroservis tabanlı uygulamalar geliştirmiştir. Özellikle REST API ve Docker kullanarak çözümler sunmuştur.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "ileri",
+        "kanit": "Web uygulamalarını geliştirerek çeşitli işlevleri gerçekleştiren .NET Framework'ü kullanır."
+      },
+      {
+        "ad": "REST API",
+        "seviye": "ileri",
+        "kanit": "HTTP istemci-arayüzlerini tasarlamak ve uygulamalar arasında veri transferini sağlamak için REST API'yı kullanır."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "ileri",
+        "kanit": "Containerize etmek ve uygulamaları portablere kavramla dağıtmak için Docker'yı kullanır."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "baslangic",
+        "kanit": "Mikroservis mantığını benimsemek ve uygulamalarını küçük ve ölçeklenebilir hale getirmek için bu yaklaşımdan faydalanır."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Doğan",
+    "cv_metni": "Ahmet Doğan, 5 yıl uzman olarak .NET Framework ve ASP.NET Core ile geliştirme çalışmaları yaptı. Özellikle mikroservis mimarisi ve Docker kullanılarak ölçeklenebilir çözümler geliştirdi.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "uzman",
+        "kanit": "5 yıllık deneyim ve birçok mikroservis projesiyle uzmanlaşmış."
+      },
+      {
+        "ad": "ASP.NET Core",
+        "seviye": "uzman",
+        "kanit": "Oluşturduğu uygulamaların ölçeği ve performansını artırmak için Docker ve Kubernetes kullanmıştır."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "Birden fazla mikroservisten oluşan sistemler geliştirdi ve bunları Docker ve Kubernetes kullanarak orkestrasyon yaptı."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "uzman",
+        "kanit": "Projenin her aşamasında Docker kullanarak containerization yaptığını ve Docker Compose ve Swarm kullanarak orkestrasyon yaptı."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Yılmaz",
+    "cv_metni": "Ahmet Yılmaz, 5 yıl boyunca .NET ve C# ile geliştirme çalışmalarına sahiptir. Özellikle mikroservis mimarisi ve Docker kullanarak ölçeklenebilir çözümler geliştirmek konusunda uzmanlaşmıştır.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "ileri",
+        "kanit": "Mikroservis projelerinde .NET Core kullanarak yüksek ölçekli uygulamalar geliştirdi."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "E-ticaret platformu için mikroservis mimarisi benimseyerek performanslı ve güvenli çözümler sağladı."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "ileri",
+        "kanit": "Çok sayıda servisyede Docker kullanarak konteynerize geçiş yaptığını gösterdi."
+      },
+      {
+        "ad": "Test/TDD",
+        "seviye": "orta",
+        "kanit": "Kod yazarken Test-Driven Development yaklaşımlarını kullanmayı tercih ediyor."
+      }
+    ]
+  },
+  {
+    "kisi": "Ayşe Kaya",
+    "cv_metni": "Ayşe Kaya, Python ve Django ile 3 yıl boyunca çeşitli web uygulamaları geliştirmiştir. Özellikle REST API'ler oluşturma ve veri modellenmesine odaklanmıştır.",
+    "yetkinlikler": [
+      {
+        "ad": "Python",
+        "seviye": "ileri",
+        "kanit": "Bir çok makaleyi ve open-source projesini Python dilinde oluşturmuştur."
+      },
+      {
+        "ad": "REST API",
+        "seviye": "uzman",
+        "kanit": "Bir çok büyük ölçekli uygulamanın REST API'lerinin tasarımı ve geliştirmesinde rol aldı."
+      },
+      {
+        "ad": "Veri Modelleme",
+        "seviye": "orta",
+        "kanit": "SQL ve NoSQL veritabanları üzerinde veri modellenmesine dayalı çözümlere katkı sağladı."
+      },
+      {
+        "ad": "ETL",
+        "seviye": "baslangic",
+        "kanit": "Veri transferi ve dönüştürme süreçlerine yeni başladı."
+      }
+    ]
+  },
+  {
+    "kisi": "Mehmet Can Tan",
+    "cv_metni": "Mehmet Can Tan, 7 yıl boyunca Java ve Spring Framework ile geliştirme çalışmalarına sahiptir. Özellikle Kubernetes ve CI/CD süreçlerinde uzmanlaşmış ve büyük ölçekli uygulamaların performansını optimize etmek için çalışmıştır.",
+    "yetkinlikler": [
+      {
+        "ad": "Java",
+        "seviye": "ileri",
+        "kanit": "Spring Boot ve Spring Cloud ile birçok büyük ölçekli uygulama geliştirdi."
+      },
+      {
+        "ad": "Kubernetes",
+        "seviye": "uzman",
+        "kanit": "Bir çok uygulamanın Kubernetes clustere taşınması ve ölçeklendirilmesinde rol aldı."
+      },
+      {
+        "ad": "CI/CD",
+        "seviye": "orta",
+        "kanit": "GitLab CI/CD pipelines oluşturarak ve yöneterek geliştirme sürecini optimize etti."
+      },
+      {
+        "ad": "Performans Optimizasyonu",
+        "seviye": "orta",
+        "kanit": "Uygulamaların performansını artırmak için çeşitli teknikler ve araçlar kullanmayı öğrendi."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Yılmaz",
+    "cv_metni": "Ahmet Yılmaz, uzman seviye .NET geliştiricisidir. Özellikle C# ve .NET Framework kullanarak büyük ölçekli web uygulamaları geliştirmekten çok memnuniyet duyar. 8 yıl deneyimi vardır ve birçok milyonlarca kullanıcıya ulaşan ürünlerin arkasında yer almıştır.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "uzman",
+        "kanit": "Ahmet, birçok büyük proje üzerinde çalışan ve .NET Framework'in en derin özelliklerini kullanarak çözümler geliştirdiğini kanıtlar."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "ileri",
+        "kanit": "Uzun süreli projelerde mikroservis mantığını uygulayarak performans ve skalalılığı artırmıştır."
+      },
+      {
+        "ad": "Kubernetes",
+        "seviye": "orta",
+        "kanit": "DevOps süreçlerini yöneterek, Kubernetes kullanarak dağıtım ve ölçeklendirme konusunda deneyim kazandı."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "orta",
+        "kanit": "Docker images oluşturarak ve Docker Swarm kullanarak kapsayıcıların yönetimi konusunda uzmanlaşmıştır."
+      }
+    ]
+  },
+  {
+    "kisi": "Fatma Şen",
+    "cv_metni": "Fatma Şen, baslangic seviyesinde bir yazılımcıdır. Python ve Django ile hızlı ve etkili web uygulamaları geliştirmek için eğitilmemiştir. Ancak, hızlı öğrenme ve adapte olma yeteneği sayesinde çok sayıda projeye katkı sağlamıştır.",
+    "yetkinlikler": [
+      {
+        "ad": "Python",
+        "seviye": "baslangic",
+        "kanit": "Fatma, Django framework'ü kullanarak basit web siteleri geliştirdiği ve bu yetkinliğini destekleyici projeleri listeler."
+      },
+      {
+        "ad": "REST API",
+        "seviye": "baslangic",
+        "kanit": "REST API'ler için basit arayüzler tasarladığını ve bu yetkinliği birçok projede gösterdiği için kanıt vermektedir."
+      },
+      {
+        "ad": "HTML/CSS",
+        "seviye": "orta",
+        "kanit": "Temel HTML ve CSS bilgisi ile basit web siteleri geliştirdiği ve bunu çeşitli projelerde gösterdiği için kanıt vermektedir."
+      },
+      {
+        "ad": "Git",
+        "seviye": "baslangic",
+        "kanit": "Git kullanarak projeleri yönettiğini ve bu yetkinliği çeşitli projelerde gösterdiği için kanıt vermektedir."
+      }
+    ]
+  },
+  {
+    "kisi": "Ayşe Korkmaz",
+    "cv_metni": "Ayşe Korkmaz, 5 yıl Java ve Node.js ile geliştirme deneyimi olan yazılımcıdır. Özellikle gRPC ve CI/CD süreçlerinin geliştirilmesinde uzmanlık göstermektedir.",
+    "yetkinlikler": [
+      {
+        "ad": "Java",
+        "seviye": "orta",
+        "kanit": "Ayşe Korkmaz, birçok Java uygulamasını geliştirdiği ve hiper skalalara kadar ölçeklenebilirlik ve performans için gerekli yapıların oluşturulduğu kanıtlanmaktadır."
+      },
+      {
+        "ad": "Node.js",
+        "seviye": "orta",
+        "kanit": "Ayşe Korkmaz, çeşitli Node.js uygulamalarını geliştirdiği ve bunların performansını optimize ettiği kanıtlanmaktadır."
+      },
+      {
+        "ad": "gRPC",
+        "seviye": "ileri",
+        "kanit": "Ayşe Korkmaz, gRPC ile birçok mikroservis uygulamasını geliştirdiği ve bu uygulamaların performansını optimize ettiği kanıtlanmaktadır."
+      },
+      {
+        "ad": "CI/CD",
+        "seviye": "orta",
+        "kanit": "Ayşe Korkmaz, birçok projede CI/CD süreçlerini geliştirip otomasyonu sağladığı kanıtlanmaktadır."
+      }
+    ]
+  },
+  {
+    "kisi": "Mehmet Can",
+    "cv_metni": "Mehmet Can, 7 yıl JavaScript ve React ile geliştirme deneyimi olan yazılımcıdır. Özellikle Docker ve Kubernetes üzerinde uzmanlık göstermektedir.",
+    "yetkinlikler": [
+      {
+        "ad": "JavaScript",
+        "seviye": "orta",
+        "kanit": "Mehmet Can, çeşitli JavaScript uygulamalarını geliştirdiği ve bu uygulamaların performansını optimize ettiği kanıtlanmaktadır."
+      },
+      {
+        "ad": "React",
+        "seviye": "ileri",
+        "kanit": "Mehmet Can, birçok React uygulamasını geliştirdiği ve bu uygulamaların performansını optimize ettiği kanıtlanmaktadır."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "uzman",
+        "kanit": "Mehmet Can, birçok uygulamanın Docker konteynerlere kapsülleştirilmesi ve bu konteynerlerin Kubernetes üzerinde çalıştırılması konusunda uzmanlık gösterdiği kanıtlanmaktadır."
+      },
+      {
+        "ad": "Kubernetes",
+        "seviye": "uzman",
+        "kanit": "Mehmet Can, birçok uygulamanın Kubernetes üzerinde çalıştırılması ve ölçeklendirilmesi konusunda uzmanlık gösterdiği ve bu uygulamaların performansını optimize ettiği kanıtlanmaktadır."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Yılmaz",
+    "cv_metni": "Ahmet Yılmaz, 8 yıl içinde çeşitli maliyet yönetimi sistemleri geliştirmiştir. Özellikle C# ve .NET ile geliştirilmiş projelerde uzmanlaşmıştır.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "ileri",
+        "kanit": "Maliyet yönetimi sistemleri geliştirdiği deneyim sayesinde, C# ve .NET kullanarak karmaşık uygulamalar oluşturabilecek kadar deneyimli."
+      },
+      {
+        "ad": "SQL",
+        "seviye": "orta",
+        "kanit": "Oracle ve SQL Server üzerinde maliyet ve müşteri bilgilerini yönetmek için yazılmış olan sorgularla tanınan yetkinliği gösterir."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Yılmaz",
+    "cv_metni": "Ahmet Yılmaz, 10 yıldır yazılımcılık alanında uzmanlaşmış bir profesyoneldir. Özellikle mikroservis mimarisi ve Docker kullanılarak ölçeklenebilir yazılım çözümleri geliştirmek konusunda uzmanlık göstermektedir.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "ileri",
+        "kanit": "Ahmet .NET Framework ve .NET Core platformlarında geniş deneyim kazandı ve çeşitli mikroservis çözümleri geliştirdi."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "Ahmet birçok mikroservis projesi yönetti ve bu süreçte Docker ve Kubernetes gibi containerization araçlarını kullanarak ölçeklenebilir çözümler geliştirdi."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "uzman",
+        "kanit": "Ahmet birçok Docker Image oluşturdu ve Docker Compose ve Kubernetes ile ölçeklenebilir hizmetler geliştirdi."
+      },
+      {
+        "ad": "Kubernetes",
+        "seviye": "ileri",
+        "kanit": "Ahmet birçok Kubernetes cluster yönetti ve hizmetlerin ölçeğini, performansını ve güvenliğini optimize etmeye yardımcı oldu."
+      }
+    ]
+  },
+  {
+    "kisi": "Fatma Erdoğan",
+    "cv_metni": "Fatma Erdoğan, 8 yıldır yazılımcılık alanında uzmanlaşmış bir profesyoneldir. Özellikle REST API ve GraphQL kullanılarak veri tabanı işlemlerini kolaylaştırmak konusunda uzmanlık göstermektedir.",
+    "yetkinlikler": [
+      {
+        "ad": "REST API",
+        "seviye": "ileri",
+        "kanit": "Fatma birçok REST API projesinde görev aldı ve bu süreçte veri tabanıyla iletişim kurmak için API design patternlerini uyguladı."
+      },
+      {
+        "ad": "GraphQL",
+        "seviye": "ileri",
+        "kanit": "Fatma birçok GraphQL API projesinde görev aldı ve bu süreçte veri tabanındaki ilişkileri optimize etmeye ve performansı iyileştirmeye odaklandı."
+      },
+      {
+        "ad": "SQL",
+        "seviye": "orta",
+        "kanit": "Fatma PostgreSQL ve MongoDB gibi veritabanları üzerinde çeşitli veri tabanı işlemlerini gerçekleştirdi."
+      },
+      {
+        "ad": "API Tasarımı",
+        "seviye": "orta",
+        "kanit": "Fatma birçok API tasarım sürecinde katıldı ve bu süreçte SOAP ve REST arayüzlerini tasarlamak ve optimize etmek konusunda uzmanlık gösterdi."
+      }
+    ]
+  },
+  {
+    "kisi": "Ali Can",
+    "cv_metni": "10 yılı aşkın tecrübeye sahip bir yazılımcı olarak, Ali Can, özellikle mikroservis mimarisi ve Docker kullanılarak ölçeklenebilir yazılım çözümler geliştirmek için uzmanlık gösteriyor. Özellikle C#/.NET ve ASP.NET Core ile geliştirdiği projeler sayesinde, sistem tasarımları ve performans optimizasyonu konularında geniş deneyim sahibi.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "ileri",
+        "kanit": "Ali Can, çeşitli mikroservis projelerinde .NET Core kullanarak ölçeklenebilir çözümler geliştirdi."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "Ali Can, çok sayıda mikroservis mimarisi projesine katkıda bulundu ve bu süreçte Docker ve Kubernetes kullanmayı da öğrendi."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "ileri",
+        "kanit": "Ali Can, Dockerfile'lerini oluşturup, Docker Compose ile kapsülleştirilmiş hizmetler oluşturdu."
+      },
+      {
+        "ad": "Performans Optimizasyonu",
+        "seviye": "orta",
+        "kanit": "Ali Can, geliştirilen uygulamaların performansını analiz etti ve gereksiz işleme kaldırma ve veritabanı performansını optimize etme konusunda deneyimlerine sahiptir."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Yılmaz",
+    "cv_metni": "Ahmet Yılmaz, 8 yıl Python ve Django kullanarak çeşitli web uygulamalarını geliştirdi. Sonynchronously çalışan JavaScript kodlarını optimize etmek için Node.js ve Express kullanmayı öğrendi.",
+    "yetkinlikler": [
+      {
+        "ad": "Python",
+        "seviye": "ileri",
+        "kanit": "Ahmet, birçok büyük ölçekli proje üzerinde Django ile çalışan REST API'ler geliştirdi."
+      },
+      {
+        "ad": "Node.js",
+        "seviye": "orta",
+        "kanit": "Ahmet, mikroservis arayüzleri için synchronously çalışan Node.js ve Express kullanmayı öğrendi."
+      },
+      {
+        "ad": "SQL",
+        "seviye": "orta",
+        "kanit": "Ahmet, PostgreSQL ve MySQL gibi RDBMS sistemleri kullanarak veri tabanları tasarladı ve yönetti."
+      },
+      {
+        "ad": "CI/CD",
+        "seviye": "baslangic",
+        "kanit": "Ahmet, Jenkins ve GitLab CI/CD pipeline'leri kullanarak sürekli dağıtım süreçlerini geliştirdi."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Yılmaz",
+    "cv_metni": "Ahmet Yılmaz, 8 yıl boyunca yazılımcı olarak çeşitli maliyet ve zaman yönetimi projelerini yönetmiştir. Özellikle mikroservis mimarisi ve REST API geliştirmeyi öne çıkartmıştır.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "ileri",
+        "kanit": "Mikroservis mimarisi ve .NET Framework'te büyük projeleri yönetmiştir."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "Teknik liderlik ve ekibine teknik eğitimler sunmuştur."
+      },
+      {
+        "ad": "REST API",
+        "seviye": "uzman",
+        "kanit": "API tasarımları ve performans optimizasyonları konusunda uzmanlaşmıştır."
+      },
+      {
+        "ad": "Kubernetes",
+        "seviye": "orta",
+        "kanit": "DevOps süreçlerini yöneterek Docker ve Kubernetes kullanmayı öğrendiği ve uyguladığıdır."
+      }
+    ]
+  },
+  {
+    "kisi": "Ayşe Koç",
+    "cv_metni": "Ayşe Koç, 6 yıl boyunca JavaScript ve TypeScript ile web uygulamalarını geliştiren ve test ettiğinden beri, modern uygulamalar için React ve Next.js kullanmayı öğrenmiştir.",
+    "yetkinlikler": [
+      {
+        "ad": "JavaScript",
+        "seviye": "orta",
+        "kanit": "Web uygulamalarının geliştirilmesi ve test etmesine yardımcı olmuştur."
+      },
+      {
+        "ad": "TypeScript",
+        "seviye": "orta",
+        "kanit": "Veri modellerini geliştirdiği ve yönettiği projeleri daha güvenli hale getirmiştir."
+      },
+      {
+        "ad": "React",
+        "seviye": "orta",
+        "kanit": "Komponent temelli uygulamalar geliştirdiği ve performans iyileştirmeleri gerçekleştirdiği projeleri vardır."
+      },
+      {
+        "ad": "Next.js",
+        "seviye": "baslangic",
+        "kanit": "Temel bilgileri ve örnek uygulamalar geliştirdiği ve öğrenmeye başladığı alan."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Bilgici",
+    "cv_metni": "Ahmet Bilgici, 5 yıl boyunca .NET Framework ve ASP.NET Core kullanarak çeşitli web uygulamalarını geliştirdi. Özellikle mikroservis mimarisi ve Docker kullanılarak ölçeklenebilir sistemler tasarladı.",
+    "yetkinlikler": [
+      {
+        "ad": "C#/.NET",
+        "seviye": "ileri",
+        "kanit": "Ahmet .NET Framework ve Core ile birçok büyük proje tamamladı."
+      },
+      {
+        "ad": "ASP.NET Core",
+        "seviye": "ileri",
+        "kanit": "ASP.NET Core kullanarak performanslı ve ölçeklenebilir web uygulamaları geliştirdi."
+      },
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "Mikroservis mantığını benimsedi ve birçok projede bu yaklaşımda başarılar elde etti."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "orta",
+        "kanit": "Docker kullanarak geliştirme ve dağıtım sürecini hızlandırdı."
+      }
+    ]
+  },
+  {
+    "kisi": "Ayşe Tekneci",
+    "cv_metni": "Ayşe Tekneci, 8 yıl boyunca Java ve Python kullanarak veri analizleri ve makine öğrenme modelleri geliştirdi. Özellikle Elasticsearch ve PostgreSQL kullanarak veri modellerini geliştirdi.",
+    "yetkinlikler": [
+      {
+        "ad": "Java",
+        "seviye": "baslangic",
+        "kanit": "Java temel bilgilerini öğrendi ve bazı küçük projeler geliştirdi."
+      },
+      {
+        "ad": "Python",
+        "seviye": "ileri",
+        "kanit": "Python ile büyük ölçekli veri analizleri ve makine öğrenme modelleri geliştirdi."
+      },
+      {
+        "ad": "Elasticsearch",
+        "seviye": "orta",
+        "kanit": "Elasticsearch kullanarak veri modellerini geliştirdi ve performansı artırdı."
+      },
+      {
+        "ad": "PostgreSQL",
+        "seviye": "orta",
+        "kanit": "PostgreSQL kullanarak veri tabanları tasarladı ve yönetti."
+      }
+    ]
+  },
+  {
+    "kisi": "Ahmet Yılmaz",
+    "cv_metni": "Ahmet Yılmaz, 8 yıl tecrübeli yazılımcı olarak uzman seviyesinde çalışmaktadır. Özellikle mikroservis mimarisi ve Docker kullanılarak ölçeklenebilir sistemler geliştirdiği için çok takdir edilir. Ayrıca, çeşitli projelerde Kubernetes kullanarak kapsayıcıları yöneterek şirketin performansını artırmıştır.",
+    "yetkinlikler": [
+      {
+        "ad": "Mikroservis Mimarisi",
+        "seviye": "uzman",
+        "kanit": "Mikroservislerle geliştirilmiş birçok başarılı projesi vardır."
+      },
+      {
+        "ad": "Docker",
+        "seviye": "uzman",
+        "kanit": "Kapsayıcılarla geliştirilen ve yönetilen birçok uygulama var."
+      },
+      {
+        "ad": "Kubernetes",
+        "seviye": "uzman",
+        "kanit": "Kubernetes kullanılarak dağıtılmış ve ölçeklenebilir hizmetler geliştirmiş."
+      },
+      {
+        "ad": "CI/CD",
+        "seviye": "orta",
+        "kanit": "GitLab CI/CD."
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "Backend": ["C#/.NET", "ASP.NET Core", "Python", "Java", "Go", "Node.js", "REST API", "GraphQL", "Mikroservis Mimarisi", "RabbitMQ", "Kafka", "gRPC"],
+  "Frontend": ["JavaScript", "TypeScript", "React", "Vue", "Angular", "Next.js", "HTML/CSS", "Tailwind", "State Yönetimi (Redux)", "UI/UX Temelleri"],
+  "Veri ve Veritabanı": ["SQL", "PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "Veri Modelleme", "Pandas", "ETL", "Temel Makine Öğrenmesi", "PyTorch/TensorFlow"],
+  "DevOps ve Altyapı": ["Docker", "Kubernetes", "CI/CD", "Linux", "Git", "AWS", "Azure", "Terraform", "Ansible", "Prometheus/Grafana", "Nginx"],
+  "Mimari ve Mühendislik Pratiği": ["Sistem Tasarımı", "API Tasarımı", "Test/TDD", "Kod Review", "Dokümantasyon", "Teknik Liderlik", "Güvenlik Temelleri", "Performans Optimizasyonu"]
+}
